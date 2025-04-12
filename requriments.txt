@@ -1,0 +1,23 @@
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language**: Python 3.x
+- **Frameworks & Libraries**:
+  - Pandas & NumPy – data handling
+  - Scikit-learn – ML algorithms
+  - XGBoost / LightGBM – boosting models (optional)
+  - Matplotlib & Seaborn – data visualization
+  - Jupyter Notebook – for experimentation
+  - Streamlit / Flask – for optional real-time simulation UI
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/FraudDetection.git
+cd FraudDetection
